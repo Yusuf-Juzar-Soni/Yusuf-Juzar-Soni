@@ -8,7 +8,7 @@
 <p><em>I am currently pursuing a Masters Degree in Software Engineering at San Jose State University</em></p>
 
 
-[![Linkedin: Yusuf Soni](https://img.shields.io/badge/-Yusuf Soni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/yusuf-soni/)](www.linkedin.com/in/yusuf-soni)
+[![Linkedin: Yusuf Soni](https://img.shields.io/badge/-YusufSoni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/yusuf-soni/)](www.linkedin.com/in/yusuf-soni)
 
 
 
