@@ -5,11 +5,10 @@
 - 📫 How to reach me ...
 
 <h2> 👋 Hi, I’m Yusuf Juzar Soni </h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>I am currently pursuing a Masters Degree in Software Engineering at San Jose State University</em></p>
 
-[![Instagram : ThaiiBraga](https://img.shields.io/instagram/follow/yjs1897?style=social)](https://www.instagram.com/yjs1897)
-[![Linkedin: Yusuf Soni](https://img.shields.io/badge/-yusufso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/yusuf-soni/)](www.linkedin.com/in/yusuf-soni)
+
+[![Linkedin: Yusuf Soni](https://img.shields.io/badge/-Yusuf Soni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/yusuf-soni/)](www.linkedin.com/in/yusuf-soni)
 
 
 
