@@ -3,7 +3,7 @@
 
 <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m Yusuf Soni </h2>
 
-[![Linkedin: Yusuf Soni](https://img.shields.io/badge/-YusufSoni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/yusuf-soni/)](www.linkedin.com/in/yusuf-soni)
+[![Linkedin: Yusuf Soni](https://img.shields.io/badge/-YusufSoni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yusuf-soni/)](https://www.linkedin.com/in/yusuf-soni)
 [![Instagram Badge](https://img.shields.io/badge/-@yjs1897-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/yjs1897/)](https://www.instagram.com/yjs1897/)
 [![Gmail Badge](https://img.shields.io/badge/-yusufjsoni-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yusufjsoni@gmail.com)](mailto:yusufjsoni@gmail.com)
 
