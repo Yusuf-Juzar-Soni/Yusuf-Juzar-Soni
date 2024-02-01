@@ -7,7 +7,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@yjs1897-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/yjs1897/)](https://www.instagram.com/yjs1897/)
 [![Gmail Badge](https://img.shields.io/badge/-yusufjsoni-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yusufjsoni@gmail.com)](mailto:yusufjsoni@gmail.com)
 
-<p><em>I'm a rookie community driven technologist (currently pursuing my Master’s Degree in Software Engineering from SJSU <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">) aspiring to really understand and empathize with information problems being faced by communities before diving into solving them.</em></p>
+<p><em>I'm a rookie community driven technologist aspiring to really understand and empathize with information problems being faced by communities before diving into solving them.</em></p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> A little more about me... <em>
   
@@ -23,7 +23,7 @@
   - 🤞 One day I hope to...
     - Write my own blog!
     - Learn UI/UX Design ( Photoshop, Illustrator,Figma and the likes)
-    - Get a FAANGM+ internship (if you have this power do hire me) 
+    - Get a FAANGM+ full time role (if you have this power do hire me) 
 
 </em>
 
